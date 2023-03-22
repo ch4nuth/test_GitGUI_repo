@@ -1,1 +1,2 @@
 git GUI
+clone
