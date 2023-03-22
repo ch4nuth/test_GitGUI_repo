@@ -1,2 +1,2 @@
 git GUI
-clone
+clone2
